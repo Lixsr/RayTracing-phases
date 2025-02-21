@@ -149,7 +149,7 @@ The `computeLighting` method calculates the lighting intensity at a point on a s
 ---
 ---
 
-### 3. `RayTracer`
+### 14. `RayTracer`
 
 - **Rendering**:
   - `render`: Renders the scene by tracing rays for each pixel.
